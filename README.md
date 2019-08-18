@@ -61,3 +61,4 @@ This version of the code has been implemented under OpenAirInterface5G v0.5.2 - 
 
 
 
+# pktrmodel
